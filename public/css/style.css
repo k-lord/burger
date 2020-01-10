@@ -1,6 +1,19 @@
 body {
-    background: rgb(240, 240, 134);
+    background: rgb(253,214,200);
     color: palevioletred;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Tajawal', sans-serif;
+}
+
+img {
+    margin-top: 1em;
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    text-align: center;
+    color: #347FC4;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 4em;
 }
