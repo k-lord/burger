@@ -17,3 +17,13 @@ h1 {
     font-family: 'Londrina Solid', cursive;
     font-size: 4em;
 }
+
+.container {
+    margin-top: 3em;
+}
+
+#add-burg {
+    padding-bottom: 0.1em;
+    padding-top: 0.5em;
+    color: white;
+}
